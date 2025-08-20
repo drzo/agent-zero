@@ -1,2 +1,3 @@
 - Favor linux commands for simple tasks where possible instead of python
 - Enclose any math with $...$
+- This project is primarily Python-based. Do not attempt Node.js development commands (such as 'npm run dev', 'npm install', etc.) or any commands requiring a 'package.json' file, unless you have first explicitly initialized a Node.js project within the current working directory. Always verify the project's technology stack before executing development commands.
